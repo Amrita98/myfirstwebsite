@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirstwebsite/static/css/main.4405334b.chunk.css",
+    "main.js": "/myfirstwebsite/static/js/main.bab6a4f2.chunk.js",
+    "main.js.map": "/myfirstwebsite/static/js/main.bab6a4f2.chunk.js.map",
+    "runtime-main.js": "/myfirstwebsite/static/js/runtime-main.1c122d21.js",
+    "runtime-main.js.map": "/myfirstwebsite/static/js/runtime-main.1c122d21.js.map",
+    "static/js/2.f23b5938.chunk.js": "/myfirstwebsite/static/js/2.f23b5938.chunk.js",
+    "static/js/2.f23b5938.chunk.js.map": "/myfirstwebsite/static/js/2.f23b5938.chunk.js.map",
+    "index.html": "/myfirstwebsite/index.html",
+    "precache-manifest.754e823a7a1bcaf9f453cf709ce6129b.js": "/myfirstwebsite/precache-manifest.754e823a7a1bcaf9f453cf709ce6129b.js",
+    "service-worker.js": "/myfirstwebsite/service-worker.js",
+    "static/css/main.4405334b.chunk.css.map": "/myfirstwebsite/static/css/main.4405334b.chunk.css.map",
+    "static/js/2.f23b5938.chunk.js.LICENSE.txt": "/myfirstwebsite/static/js/2.f23b5938.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/myfirstwebsite/static/media/bg.c163a1cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c122d21.js",
+    "static/js/2.f23b5938.chunk.js",
+    "static/css/main.4405334b.chunk.css",
+    "static/js/main.bab6a4f2.chunk.js"
+  ]
+}
